@@ -44,6 +44,6 @@ for sistema in sistemas:
         else:
             print("Opción no válida. Escribe 1, 2 o 3.")
 
-print("\n===== RESUMEN DE CLASIFICACIÓN =====")
+print("\n RESUMEN DE CLASIFICACIÓN")
 for i in range(len(sistemas)):
     print(f"{sistemas[i]}: {respuestas[i]}")
