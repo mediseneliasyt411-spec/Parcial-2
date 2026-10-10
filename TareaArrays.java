@@ -59,7 +59,7 @@ public class TareaArrays {
             }
         }
 
-        System.out.println("\n===== RESUMEN DE CLASIFICACIÓN =====");
+        System.out.println("\n RESUMEN DE CLASIFICACIÓN ");
         for (int i = 0; i < sistemas.length; i++) {
             System.out.println(sistemas[i] + ": " + respuestas[i]);
         }
